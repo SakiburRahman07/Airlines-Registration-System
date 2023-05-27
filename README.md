@@ -47,6 +47,7 @@ The Airlines Reservation System is a comprehensive application that allows users
 - Constructor
 - Managing Console I/0 Operation
 - STL
+- Static Variable
 - Many more
 # Video link of how to operate the system : 
 YouTube : https://youtu.be/-_JBCYjBtKI 
