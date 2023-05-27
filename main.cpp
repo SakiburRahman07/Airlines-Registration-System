@@ -1033,7 +1033,6 @@ void mainMenu()
     cout << "\t\t                \033[31mRahmanAir Horizon\033[0m          " << endl;
     cout << "\t____________________________Main Menu____________________________" << endl;
     cout << "\t_________________________________________________________________" << endl;
-
     cout << "\t\t\t\t\t\t\t" << endl;
     cout << "\033[1;31m";
     cout << "\t|\t  Press \033[1;37m1\033[1;31m to add the Customer Details                   |" << endl;
@@ -1050,7 +1049,11 @@ void mainMenu()
     cout << "\033[0m";
 
     cout << "\t_________________________________________________________________" << endl;
-
+    cout << "\033[1;33m"; 
+    cout << "To enhance your booking experience and enjoy a delightful journey, don't forget to utilize the exclusive 'SAKIB07' promo code," << endl;
+    cout << "which entitles you to an extraordinary \033[1;31m7%\033[1;33m discount on your ticket purchase," << endl;
+    cout << "adding an extra touch of savings to your travel plans." << endl;
+    cout << "\033[0m"; 
     cout << "Enter the choice : ";
     cin >> lchoice;
 
@@ -1155,7 +1158,7 @@ void mainMenu()
     }
     case 6:
     {
-        cout << "\n\n\t____________Thank you_________________" << endl;
+        cout << "\n\n\t________________Thank you_________________" << endl;
         break;
     }
 
