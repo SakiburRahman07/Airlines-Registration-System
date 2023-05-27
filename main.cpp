@@ -589,6 +589,21 @@ void Registration::showflighttime(int Dur, int price)
     }
     cout << "Choose your Flight option and then choice class option : " << endl;
     cin >> choice1;
+    if(choice1>7) 
+    {
+        cout<<"Invalid input"<<endl;
+        cout<<"To go to main menu enter any integer key"<<endl;
+        int sak;
+        cin>>sak;
+        if(sak==1)
+        {
+            mainMenu();
+        }
+        else
+        {
+            mainMenu();
+        }
+    }
     cout << "\nClass : " << endl;
     cout << "\n1. Economy Class. \t2. Business Class.\t3. First Class\n";
     int classchoise;
