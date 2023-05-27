@@ -1,0 +1,57 @@
+-------------------------------------------------------------------
+                               TICKET                              
+-------------------------------------------------------------------
+                          RahmanAir Horizon                        
+-------------------------------------------------------------------
+
+Passenger Details : 
+
+  Customer ID : BPGGX0HL75
+  Passenger Name : Sabir Abdullah
+  Passenger Address : Tangail, Dhaka
+  Passenger Age : 15
+  Passenger NID number : 200700
+  Passenger Phone number : 01318480117
+  Passenger Gender : Male
+
+Flight Details :
+   Flight Number : F1AZST2
+   Flight from Dhaka, Bangladesh to Chattogram, Bangladesh
+   Departure Date : 2023-06-02
+   Departure Time : 20 : 24
+   Arrival Time : 21 : 18
+   Duration : 0 hour and 54 minutes
+   Seat Number : 1
+   Ticket Number : ZYT4VF1A2S
+
+Fare Details : 
+   Fare Class : Business Class
+   Fare ( tax included ): 3834.85 BDT
+  Bill Number : 21370047797329095560
+
+Additional Information :
+   Food : Fruit-infused water (lemon, cucumber, or mixed berries)
+   Baggage Allowance : 1 piece, 7 kg (15.43  lbs)
+   Cabin : Business Class
+   Boarding Gate : C2
+   Terminal : Terminal 5
+   Check-in Counter : Counter 5
+
+Important Reminders:
+   - Please arrive at the airport at least half an hours before the departure time.
+   - Keep your ticket and boarding pass handy throughout your journey.
+
+For any inquiries or changes, please contact : 
+RahmanAir Horizon 
+
+Head Office,
+House # 06, 
+Road # 137, 
+Block # SE(D), 
+Gulshan-1, 
+Dhaka-1212. Bangladesh.
+
+   Phone: +002007007
+   Website: www.rahmanairhorizon.com
+
+------------------------------------------------

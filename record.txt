@@ -1,0 +1,18 @@
+Name: Sakibur Rahman
+Age: 21
+Address: Tangail, Dhaka
+Gender: Male
+Phone Number: 01794111768
+NID Card Number: 2007007
+Customer ID: YYAD47YDQ0
+------------------------------------------
+
+Name: Sabir Abdullah
+Age: 15
+Address: Tangail, Dhaka
+Gender: Male
+Phone Number: 01318480117
+NID Card Number: 200700
+Customer ID: BPGGX0HL75
+------------------------------------------
+
