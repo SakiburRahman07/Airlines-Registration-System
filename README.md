@@ -71,9 +71,15 @@ Here's a step-by-step guide on how to operate the system based on your descripti
 That's it! Following these steps, you should be able to operate the system smoothly and perform the necessary tasks.
 
 # Contact
+
 Name: MD. Sakibur Rahman
+
 Roll: 2007007
+
 Section: A
+
 Year: 2nd
+
 Term: 1st
+
 E-mail: rahman2007007@stud.kuet.ac.bd
